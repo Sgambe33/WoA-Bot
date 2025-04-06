@@ -6,7 +6,7 @@ It works only on Android emulators such as BlueStacks.
 
 ## Demo
 
-<video src="./.github/readme_assets/demo.mp4" width="100%" height="100%" controls autoplay muted></video> 
+<video src=".github/readme_assets/demo.mp4" width="100%" height="100%" controls autoplay muted></video> 
 
 ## Features
 
