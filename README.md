@@ -5,7 +5,8 @@ WoA bot is a simple Python program capable of automating the gameplay of World o
 It works only on Android emulators such as BlueStacks.
 
 ## Demo
-![Demo Video](./.github/readme_assets/demo.mp4)
+
+<video src="./.github/readme_assets/demo.mp4" width="100%" height="100%" controls autoplay muted></video> 
 
 ## Features
 
